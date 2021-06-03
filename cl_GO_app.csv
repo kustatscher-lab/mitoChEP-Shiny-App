@@ -1,0 +1,787 @@
+cut_height,Cluster ID,Aspect,GO ID,GO Name,p-value,p-value<br>-log10
+hier_cl_averag_3,165,BP,GO:0000027,ribosomal large subunit assembly,3.18735017097633e-05,4.5
+hier_cl_averag_2,72,BP,GO:0000027,ribosomal large subunit assembly,0.000205438658957033,3.69
+hier_cl_averag_1,10,BP,GO:0000027,ribosomal large subunit assembly,9.32900771992016e-05,4.03
+hier_cl_averag_1,9,MF,GO:0000049,tRNA binding,0.00069817334062407,3.16
+hier_cl_averag_3,375,BP,GO:0000070,mitotic sister chromatid segregation,5.60765322415536e-05,4.25
+hier_cl_averag_2,29,BP,GO:0000070,mitotic sister chromatid segregation,0.00013679592482156,3.86
+hier_cl_averag_3,12,CC,GO:0000118,histone deacetylase complex,0.000123063912053017,3.91
+hier_cl_averag_2,5,CC,GO:0000118,histone deacetylase complex,2.58531482133058e-05,4.59
+hier_cl_averag_1,2,CC,GO:0000118,histone deacetylase complex,1.0887985252049e-07,6.96
+hier_cl_averag_2,5,BP,GO:0000122,negative regulation of transcription by RNA polymerase II,0.000866969714398098,3.06
+hier_cl_averag_2,16,BP,GO:0000122,negative regulation of transcription by RNA polymerase II,5.53984775171532e-05,4.26
+hier_cl_averag_1,2,BP,GO:0000122,negative regulation of transcription by RNA polymerase II,5.53546000936874e-13,12.26
+hier_cl_averag_2,12,CC,GO:0000139,Golgi membrane,0.000342905669531397,3.46
+hier_cl_averag_2,64,CC,GO:0000139,Golgi membrane,0.000217212162375341,3.66
+hier_cl_averag_1,8,CC,GO:0000139,Golgi membrane,5.31997564658194e-09,8.27
+hier_cl_averag_1,16,CC,GO:0000139,Golgi membrane,0.000920378313821782,3.04
+hier_cl_averag_1,22,CC,GO:0000139,Golgi membrane,2.40115039173536e-08,7.62
+hier_cl_averag_1,23,CC,GO:0000139,Golgi membrane,1.70186341073433e-06,5.77
+hier_cl_averag_2,15,BP,GO:0000154,rRNA modification,1.51320268653133e-05,4.82
+hier_cl_averag_2,75,BP,GO:0000154,rRNA modification,0.000571030493085523,3.24
+hier_cl_averag_1,6,BP,GO:0000154,rRNA modification,0.000764523036791118,3.12
+hier_cl_averag_1,10,BP,GO:0000154,rRNA modification,4.39288927269357e-07,6.36
+hier_cl_averag_2,65,CC,GO:0000176,nuclear exosome (RNase complex),3.32418612583244e-05,4.48
+hier_cl_averag_2,16,MF,GO:0000217,DNA secondary structure binding,0.000822372517233805,3.08
+hier_cl_averag_2,88,BP,GO:0000226,microtubule cytoskeleton organization,0.000866095763092699,3.06
+hier_cl_averag_2,5,CC,GO:0000228,nuclear chromosome,4.75506816570415e-06,5.32
+hier_cl_averag_1,2,CC,GO:0000228,nuclear chromosome,2.72146070399743e-09,8.57
+hier_cl_averag_2,2,BP,GO:0000245,spliceosomal complex assembly,0.000166962879783771,3.78
+hier_cl_averag_1,18,BP,GO:0000278,mitotic cell cycle,4.54177562635378e-06,5.34
+hier_cl_averag_3,17,BP,GO:0000381,"regulation of alternative mRNA splicing, via spliceosome",0.000145482038211717,3.84
+hier_cl_averag_2,2,BP,GO:0000381,"regulation of alternative mRNA splicing, via spliceosome",7.73011450211978e-05,4.11
+hier_cl_averag_1,2,BP,GO:0000381,"regulation of alternative mRNA splicing, via spliceosome",9.54246530743407e-08,7.02
+hier_cl_averag_2,2,BP,GO:0000398,"mRNA splicing, via spliceosome",0.000305096015551144,3.52
+hier_cl_averag_1,2,BP,GO:0000398,"mRNA splicing, via spliceosome",1.37576425763566e-10,9.86
+hier_cl_averag_1,10,BP,GO:0000460,maturation of 5.8S rRNA,3.60888483920934e-05,4.44
+hier_cl_averag_3,88,BP,GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",7.68827109151798e-09,8.11
+hier_cl_averag_2,8,BP,GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",4.30024608753499e-10,9.37
+hier_cl_averag_1,6,BP,GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",1.84828809121305e-05,4.73
+hier_cl_averag_3,165,BP,GO:0000463,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.000972946362086613,3.01
+hier_cl_averag_2,15,BP,GO:0000463,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.000520753062702027,3.28
+hier_cl_averag_2,72,BP,GO:0000463,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",6.79702045417636e-05,4.17
+hier_cl_averag_1,10,BP,GO:0000463,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",4.39288927269357e-07,6.36
+hier_cl_averag_2,8,BP,GO:0000466,"maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",7.50679299089558e-05,4.12
+hier_cl_averag_1,6,BP,GO:0000466,"maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.000764523036791118,3.12
+hier_cl_averag_1,10,BP,GO:0000466,"maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.000294334789048486,3.53
+hier_cl_averag_1,10,BP,GO:0000469,cleavage involved in rRNA processing,0.000415691445859556,3.38
+hier_cl_averag_2,15,BP,GO:0000470,maturation of LSU-rRNA,6.82817323764531e-06,5.17
+hier_cl_averag_1,10,BP,GO:0000470,maturation of LSU-rRNA,2.80050527356703e-11,10.55
+hier_cl_averag_3,11,CC,GO:0000502,proteasome complex,7.95248634811892e-09,8.1
+hier_cl_averag_2,7,CC,GO:0000502,proteasome complex,0.000179944493717642,3.74
+hier_cl_averag_1,5,CC,GO:0000502,proteasome complex,4.10415004215262e-07,6.39
+hier_cl_averag_3,336,BP,GO:0000724,double-strand break repair via homologous recombination,4.74716698253603e-05,4.32
+hier_cl_averag_1,2,BP,GO:0000724,double-strand break repair via homologous recombination,1.1315030967279e-05,4.95
+hier_cl_averag_2,3,CC,GO:0000777,condensed chromosome kinetochore,0.000944508505934724,3.02
+hier_cl_averag_3,12,CC,GO:0000785,chromatin,7.34366980699171e-06,5.13
+hier_cl_averag_2,5,CC,GO:0000785,chromatin,1.31036639740954e-09,8.88
+hier_cl_averag_1,2,CC,GO:0000785,chromatin,1.07548752029945e-10,9.97
+hier_cl_averag_3,99,CC,GO:0000786,nucleosome,3.79111150463118e-05,4.42
+hier_cl_averag_3,375,CC,GO:0000786,nucleosome,3.03311894268293e-06,5.52
+hier_cl_averag_2,29,CC,GO:0000786,nucleosome,1.06986819611927e-06,5.97
+hier_cl_averag_1,1,CC,GO:0000786,nucleosome,1.37779056167656e-05,4.86
+hier_cl_averag_3,11,CC,GO:0000932,P-body,0.000168805760070738,3.77
+hier_cl_averag_1,2,MF,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.000645094155475968,3.19
+hier_cl_averag_1,2,MF,GO:0000993,RNA polymerase II complex binding,0.000256070808257106,3.59
+hier_cl_averag_3,122,MF,GO:0001091,RNA polymerase II general transcription initiation factor binding,0.000945187240746876,3.02
+hier_cl_averag_1,2,MF,GO:0001103,RNA polymerase II repressing transcription factor binding,9.22297499207384e-06,5.04
+hier_cl_averag_2,8,CC,GO:0001650,fibrillar center,9.76620545805928e-05,4.01
+hier_cl_averag_1,6,CC,GO:0001650,fibrillar center,0.00010424637527242,3.98
+hier_cl_averag_3,36,MF,GO:0001664,G protein-coupled receptor binding,0.000106431984188667,3.97
+hier_cl_averag_2,31,CC,GO:0001726,ruffle,5.3880364717959e-05,4.27
+hier_cl_averag_1,7,CC,GO:0001726,ruffle,6.56365222710432e-06,5.18
+hier_cl_averag_2,150,BP,GO:0001732,formation of cytoplasmic translation initiation complex,3.38081885945791e-11,10.47
+hier_cl_averag_1,17,BP,GO:0001732,formation of cytoplasmic translation initiation complex,1.19826428051611e-08,7.92
+hier_cl_averag_3,346,BP,GO:0001738,morphogenesis of a polarized epithelium,0.000390531149675229,3.41
+hier_cl_averag_2,23,BP,GO:0001819,positive regulation of cytokine production,0.00075944925193815,3.12
+hier_cl_averag_1,1,BP,GO:0001819,positive regulation of cytokine production,0.000975399130382103,3.01
+hier_cl_averag_1,2,MF,GO:0002039,p53 binding,0.000256070808257106,3.59
+hier_cl_averag_2,25,BP,GO:0002181,cytoplasmic translation,0.000321743837186344,3.49
+hier_cl_averag_1,11,BP,GO:0002181,cytoplasmic translation,0.000454438000845326,3.34
+hier_cl_averag_1,15,BP,GO:0002181,cytoplasmic translation,0.000160774034319954,3.79
+hier_cl_averag_2,5,BP,GO:0002218,activation of innate immune response,0.000578443940771659,3.24
+hier_cl_averag_1,2,BP,GO:0002218,activation of innate immune response,0.000154116933655668,3.81
+hier_cl_averag_1,23,BP,GO:0002639,positive regulation of immunoglobulin production,0.000341356495149593,3.47
+hier_cl_averag_2,101,BP,GO:0002687,positive regulation of leukocyte migration,0.000150647894542899,3.82
+hier_cl_averag_1,9,BP,GO:0002687,positive regulation of leukocyte migration,0.000350252448581148,3.46
+hier_cl_averag_2,101,BP,GO:0002688,regulation of leukocyte chemotaxis,8.78752086610702e-05,4.06
+hier_cl_averag_1,23,BP,GO:0002708,positive regulation of lymphocyte mediated immunity,0.000562720554557443,3.25
+hier_cl_averag_1,23,BP,GO:0002824,positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,0.000562720554557443,3.25
+hier_cl_averag_2,5,MF,GO:0003676,nucleic acid binding,0.000753846902733343,3.12
+hier_cl_averag_1,2,MF,GO:0003676,nucleic acid binding,2.72082460819075e-11,10.57
+hier_cl_averag_3,12,MF,GO:0003677,DNA binding,7.66960830556864e-06,5.12
+hier_cl_averag_2,5,MF,GO:0003677,DNA binding,2.25538473374435e-10,9.65
+hier_cl_averag_1,2,MF,GO:0003677,DNA binding,1.85041672236662e-14,13.73
+hier_cl_averag_3,336,MF,GO:0003678,DNA helicase activity,0.000181889898831936,3.74
+hier_cl_averag_2,16,MF,GO:0003678,DNA helicase activity,9.09037409320409e-06,5.04
+hier_cl_averag_3,33,MF,GO:0003682,chromatin binding,0.000866973170615874,3.06
+hier_cl_averag_2,2,MF,GO:0003682,chromatin binding,0.000611801734594752,3.21
+hier_cl_averag_2,5,MF,GO:0003682,chromatin binding,2.99753528338481e-09,8.52
+hier_cl_averag_2,48,MF,GO:0003682,chromatin binding,0.000902007938651783,3.04
+hier_cl_averag_1,2,MF,GO:0003682,chromatin binding,4.15512613849639e-15,14.38
+hier_cl_averag_3,37,MF,GO:0003684,damaged DNA binding,0.000219290262658759,3.66
+hier_cl_averag_3,336,MF,GO:0003688,DNA replication origin binding,3.57108091500617e-08,7.45
+hier_cl_averag_3,336,MF,GO:0003697,single-stranded DNA binding,4.28503715127737e-07,6.37
+hier_cl_averag_2,5,MF,GO:0003700,DNA-binding transcription factor activity,2.24631500832798e-06,5.65
+hier_cl_averag_1,2,MF,GO:0003700,DNA-binding transcription factor activity,2.9840494245091e-08,7.53
+hier_cl_averag_3,53,MF,GO:0003713,transcription coactivator activity,0.000946436715833447,3.02
+hier_cl_averag_2,5,MF,GO:0003713,transcription coactivator activity,5.45068266301826e-06,5.26
+hier_cl_averag_1,2,MF,GO:0003713,transcription coactivator activity,3.63771682268916e-06,5.44
+hier_cl_averag_3,17,MF,GO:0003714,transcription corepressor activity,0.000487878710645166,3.31
+hier_cl_averag_2,2,MF,GO:0003714,transcription corepressor activity,0.000207716457526455,3.68
+hier_cl_averag_1,2,MF,GO:0003714,transcription corepressor activity,2.37503374972113e-06,5.62
+hier_cl_averag_2,15,MF,GO:0003723,RNA binding,1.11796021731636e-05,4.95
+hier_cl_averag_2,18,MF,GO:0003723,RNA binding,3.88232092036723e-05,4.41
+hier_cl_averag_1,6,MF,GO:0003723,RNA binding,1.33730965391584e-09,8.87
+hier_cl_averag_1,10,MF,GO:0003723,RNA binding,2.513911182583e-07,6.6
+hier_cl_averag_2,15,MF,GO:0003724,RNA helicase activity,2.59577581765398e-05,4.59
+hier_cl_averag_1,10,MF,GO:0003724,RNA helicase activity,6.77852665205563e-05,4.17
+hier_cl_averag_2,2,MF,GO:0003729,mRNA binding,0.000127287728241435,3.9
+hier_cl_averag_1,17,MF,GO:0003729,mRNA binding,0.000132072430377673,3.88
+hier_cl_averag_3,834,MF,GO:0003735,structural constituent of ribosome,1.16149446236519e-08,7.93
+hier_cl_averag_2,19,MF,GO:0003735,structural constituent of ribosome,1.16149446236519e-08,7.93
+hier_cl_averag_2,25,MF,GO:0003735,structural constituent of ribosome,8.31767576499412e-17,16.08
+hier_cl_averag_2,44,MF,GO:0003735,structural constituent of ribosome,1.53448746406817e-05,4.81
+hier_cl_averag_1,11,MF,GO:0003735,structural constituent of ribosome,7.68307803539983e-10,9.11
+hier_cl_averag_1,15,MF,GO:0003735,structural constituent of ribosome,2.16453868977487e-26,25.66
+hier_cl_averag_1,19,MF,GO:0003735,structural constituent of ribosome,7.67738482526542e-14,13.11
+hier_cl_averag_2,44,MF,GO:0003743,translation initiation factor activity,3.1665168542166e-05,4.5
+hier_cl_averag_1,17,MF,GO:0003743,translation initiation factor activity,0.00068642747101022,3.16
+hier_cl_averag_1,19,MF,GO:0003743,translation initiation factor activity,0.000314410901811489,3.5
+hier_cl_averag_2,31,MF,GO:0003774,motor activity,0.000130031552691594,3.89
+hier_cl_averag_3,46,MF,GO:0003777,microtubule motor activity,0.000564139439824629,3.25
+hier_cl_averag_2,30,MF,GO:0003777,microtubule motor activity,0.000351126608796969,3.45
+hier_cl_averag_3,346,MF,GO:0003924,GTPase activity,1.28947864585707e-07,6.89
+hier_cl_averag_2,28,MF,GO:0003924,GTPase activity,0.000124271592932333,3.91
+hier_cl_averag_2,101,MF,GO:0003924,GTPase activity,3.6773525280334e-09,8.43
+hier_cl_averag_1,5,MF,GO:0003924,GTPase activity,0.000110225783518015,3.96
+hier_cl_averag_1,18,MF,GO:0003924,GTPase activity,2.76760158211153e-05,4.56
+hier_cl_averag_3,11,MF,GO:0004175,endopeptidase activity,5.50189258557151e-06,5.26
+hier_cl_averag_1,5,MF,GO:0004175,endopeptidase activity,1.8815376583265e-06,5.73
+hier_cl_averag_1,2,MF,GO:0004402,histone acetyltransferase activity,0.000411197813947151,3.39
+hier_cl_averag_1,2,MF,GO:0004407,histone deacetylase activity,0.000181128953480692,3.74
+hier_cl_averag_2,60,MF,GO:0004674,protein serine/threonine kinase activity,0.000912779585276888,3.04
+hier_cl_averag_3,16,MF,GO:0004812,aminoacyl-tRNA ligase activity,0.000564139439824629,3.25
+hier_cl_averag_1,7,MF,GO:0004812,aminoacyl-tRNA ligase activity,4.38977484073916e-05,4.36
+hier_cl_averag_1,9,MF,GO:0004812,aminoacyl-tRNA ligase activity,1.1166906481633e-05,4.95
+hier_cl_averag_2,57,MF,GO:0004857,enzyme inhibitor activity,0.000286431351285625,3.54
+hier_cl_averag_1,7,MF,GO:0005096,GTPase activator activity,0.000547020409206348,3.26
+hier_cl_averag_1,22,MF,GO:0005096,GTPase activator activity,3.11814388418257e-05,4.51
+hier_cl_averag_1,23,MF,GO:0005198,structural molecule activity,9.03366771475481e-05,4.04
+hier_cl_averag_2,28,MF,GO:0005200,structural constituent of cytoskeleton,1.97947529823372e-06,5.7
+hier_cl_averag_1,18,MF,GO:0005200,structural constituent of cytoskeleton,4.84238437555177e-08,7.31
+hier_cl_averag_3,166,MF,GO:0005524,ATP binding,2.23191606077731e-06,5.65
+hier_cl_averag_3,169,MF,GO:0005524,ATP binding,0.000495178408558192,3.31
+hier_cl_averag_2,49,MF,GO:0005524,ATP binding,5.58844937493639e-05,4.25
+hier_cl_averag_2,60,MF,GO:0005524,ATP binding,0.000112176077884148,3.95
+hier_cl_averag_1,16,MF,GO:0005524,ATP binding,0.000308178776578696,3.51
+hier_cl_averag_3,346,MF,GO:0005525,GTP binding,4.69800036683731e-07,6.33
+hier_cl_averag_2,28,MF,GO:0005525,GTP binding,1.57222212142311e-05,4.8
+hier_cl_averag_2,101,MF,GO:0005525,GTP binding,2.94904743561417e-08,7.53
+hier_cl_averag_1,5,MF,GO:0005525,GTP binding,0.000124993866356595,3.9
+hier_cl_averag_1,8,MF,GO:0005525,GTP binding,0.000645081649539385,3.19
+hier_cl_averag_1,18,MF,GO:0005525,GTP binding,1.01491074181365e-05,4.99
+hier_cl_averag_3,12,CC,GO:0005634,nucleus,6.89734459024791e-05,4.16
+hier_cl_averag_3,17,CC,GO:0005634,nucleus,0.000261688537516675,3.58
+hier_cl_averag_3,33,CC,GO:0005634,nucleus,0.000443870070793126,3.35
+hier_cl_averag_3,71,CC,GO:0005634,nucleus,0.000443870070793126,3.35
+hier_cl_averag_2,2,CC,GO:0005634,nucleus,3.18997413574474e-09,8.5
+hier_cl_averag_2,5,CC,GO:0005634,nucleus,1.28822656913533e-09,8.89
+hier_cl_averag_2,16,CC,GO:0005634,nucleus,6.35767524062716e-07,6.2
+hier_cl_averag_2,18,CC,GO:0005634,nucleus,0.0003419605917908,3.47
+hier_cl_averag_2,48,CC,GO:0005634,nucleus,0.000930936967057036,3.03
+hier_cl_averag_1,2,CC,GO:0005634,nucleus,5.71229609572786e-28,27.24
+hier_cl_averag_1,6,CC,GO:0005634,nucleus,3.14406159336639e-05,4.5
+hier_cl_averag_3,28,CC,GO:0005643,nuclear pore,0.000472233172642643,3.33
+hier_cl_averag_3,71,CC,GO:0005643,nuclear pore,0.000178856050997657,3.75
+hier_cl_averag_2,30,CC,GO:0005643,nuclear pore,0.000163186664843159,3.79
+hier_cl_averag_3,12,CC,GO:0005654,nucleoplasm,0.000833363957937513,3.08
+hier_cl_averag_3,33,CC,GO:0005654,nucleoplasm,3.86492859471211e-05,4.41
+hier_cl_averag_2,2,CC,GO:0005654,nucleoplasm,4.74777667509865e-07,6.32
+hier_cl_averag_2,5,CC,GO:0005654,nucleoplasm,1.63246466709054e-07,6.79
+hier_cl_averag_2,16,CC,GO:0005654,nucleoplasm,1.39858790855341e-05,4.85
+hier_cl_averag_2,18,CC,GO:0005654,nucleoplasm,4.8666480952481e-06,5.31
+hier_cl_averag_1,2,CC,GO:0005654,nucleoplasm,6.42654738130647e-23,22.19
+hier_cl_averag_1,6,CC,GO:0005654,nucleoplasm,1.26799218975723e-07,6.9
+hier_cl_averag_1,2,CC,GO:0005667,transcription regulator complex,8.59534028643658e-06,5.07
+hier_cl_averag_1,2,CC,GO:0005671,Ada2/Gcn5/Ada3 transcription activator complex,0.000512632250038204,3.29
+hier_cl_averag_3,33,CC,GO:0005681,spliceosomal complex,2.27163887181244e-05,4.64
+hier_cl_averag_2,16,CC,GO:0005684,U2-type spliceosomal complex,0.000332529529308879,3.48
+hier_cl_averag_3,68,CC,GO:0005685,U1 snRNP,0.000227161810010978,3.64
+hier_cl_averag_1,6,CC,GO:0005685,U1 snRNP,0.000476756964708629,3.32
+hier_cl_averag_2,81,CC,GO:0005686,U2 snRNP,0.000480736194458405,3.32
+hier_cl_averag_1,6,CC,GO:0005686,U2 snRNP,0.00017108243091039,3.77
+hier_cl_averag_3,68,CC,GO:0005689,U12-type spliceosomal complex,0.000432086734380567,3.36
+hier_cl_averag_3,21,CC,GO:0005730,nucleolus,4.43470775861757e-05,4.35
+hier_cl_averag_3,23,CC,GO:0005730,nucleolus,1.469314303204e-05,4.83
+hier_cl_averag_3,56,CC,GO:0005730,nucleolus,1.469314303204e-05,4.83
+hier_cl_averag_3,88,CC,GO:0005730,nucleolus,1.56907531639874e-17,16.8
+hier_cl_averag_3,92,CC,GO:0005730,nucleolus,2.32034294712671e-05,4.63
+hier_cl_averag_3,165,CC,GO:0005730,nucleolus,2.99323470333027e-08,7.52
+hier_cl_averag_3,465,CC,GO:0005730,nucleolus,0.000178073790167589,3.75
+hier_cl_averag_2,8,CC,GO:0005730,nucleolus,2.27983882048839e-25,24.64
+hier_cl_averag_2,15,CC,GO:0005730,nucleolus,1.46593137226321e-20,19.83
+hier_cl_averag_2,72,CC,GO:0005730,nucleolus,9.24761810115286e-14,13.03
+hier_cl_averag_2,75,CC,GO:0005730,nucleolus,0.000350695490597266,3.46
+hier_cl_averag_1,6,CC,GO:0005730,nucleolus,4.33037533297477e-19,18.36
+hier_cl_averag_1,10,CC,GO:0005730,nucleolus,2.24667209425347e-34,33.65
+hier_cl_averag_3,88,CC,GO:0005732,sno(s)RNA-containing ribonucleoprotein complex,1.0361264246211e-05,4.98
+hier_cl_averag_2,8,CC,GO:0005732,sno(s)RNA-containing ribonucleoprotein complex,6.89578509711805e-06,5.16
+hier_cl_averag_2,75,CC,GO:0005732,sno(s)RNA-containing ribonucleoprotein complex,0.000891376614725087,3.05
+hier_cl_averag_1,6,CC,GO:0005732,sno(s)RNA-containing ribonucleoprotein complex,1.50530740593249e-05,4.82
+hier_cl_averag_1,1,CC,GO:0005737,cytoplasm,6.2639870209373e-06,5.2
+hier_cl_averag_1,4,CC,GO:0005737,cytoplasm,8.79722667067465e-10,9.06
+hier_cl_averag_1,7,CC,GO:0005737,cytoplasm,2.425420558982e-05,4.62
+hier_cl_averag_1,25,CC,GO:0005739,mitochondrion,5.95143188683089e-05,4.23
+hier_cl_averag_1,25,CC,GO:0005759,mitochondrial matrix,0.000374818408019043,3.43
+hier_cl_averag_2,62,CC,GO:0005783,endoplasmic reticulum,1.25932293768626e-06,5.9
+hier_cl_averag_2,133,CC,GO:0005788,endoplasmic reticulum lumen,0.000388762016120588,3.41
+hier_cl_averag_1,5,CC,GO:0005788,endoplasmic reticulum lumen,4.35195669963766e-05,4.36
+hier_cl_averag_3,112,CC,GO:0005789,endoplasmic reticulum membrane,0.000129098016272325,3.89
+hier_cl_averag_2,96,CC,GO:0005789,endoplasmic reticulum membrane,0.000521685234015081,3.28
+hier_cl_averag_1,5,CC,GO:0005789,endoplasmic reticulum membrane,2.0408495196356e-06,5.69
+hier_cl_averag_1,20,CC,GO:0005789,endoplasmic reticulum membrane,8.87699120657847e-05,4.05
+hier_cl_averag_1,5,CC,GO:0005793,endoplasmic reticulum-Golgi intermediate compartment,8.92784065145109e-05,4.05
+hier_cl_averag_2,12,CC,GO:0005794,Golgi apparatus,7.37371125750034e-07,6.13
+hier_cl_averag_1,8,CC,GO:0005794,Golgi apparatus,1.09521102839594e-09,8.96
+hier_cl_averag_2,12,CC,GO:0005795,Golgi stack,0.000630839587061263,3.2
+hier_cl_averag_1,8,CC,GO:0005795,Golgi stack,3.47220109402176e-06,5.46
+hier_cl_averag_1,23,CC,GO:0005798,Golgi-associated vesicle,1.11063775245631e-08,7.95
+hier_cl_averag_2,62,CC,GO:0005811,lipid droplet,0.000663206456161931,3.18
+hier_cl_averag_2,54,CC,GO:0005813,centrosome,0.000350013978507903,3.46
+hier_cl_averag_2,88,CC,GO:0005813,centrosome,1.29846828056067e-06,5.89
+hier_cl_averag_1,21,CC,GO:0005813,centrosome,1.21727083342869e-08,7.91
+hier_cl_averag_2,54,CC,GO:0005814,centriole,0.000473134196092489,3.33
+hier_cl_averag_2,88,CC,GO:0005814,centriole,2.93789139468197e-06,5.53
+hier_cl_averag_1,21,CC,GO:0005814,centriole,3.3212973304898e-09,8.48
+hier_cl_averag_3,36,CC,GO:0005829,cytosol,9.09552516791912e-06,5.04
+hier_cl_averag_3,77,CC,GO:0005829,cytosol,2.424569795083e-05,4.62
+hier_cl_averag_3,166,CC,GO:0005829,cytosol,3.23358456622624e-06,5.49
+hier_cl_averag_2,1,CC,GO:0005829,cytosol,1.35392916487197e-07,6.87
+hier_cl_averag_2,11,CC,GO:0005829,cytosol,0.000192611669206172,3.72
+hier_cl_averag_2,23,CC,GO:0005829,cytosol,2.65002991596346e-05,4.58
+hier_cl_averag_2,49,CC,GO:0005829,cytosol,0.000476765475705463,3.32
+hier_cl_averag_2,84,CC,GO:0005829,cytosol,0.000344843650910939,3.46
+hier_cl_averag_1,1,CC,GO:0005829,cytosol,1.62983512084847e-09,8.79
+hier_cl_averag_1,4,CC,GO:0005829,cytosol,0.000172123097766335,3.76
+hier_cl_averag_1,7,CC,GO:0005829,cytosol,4.1202704440421e-08,7.39
+hier_cl_averag_1,16,CC,GO:0005829,cytosol,2.96628592203646e-07,6.53
+hier_cl_averag_1,21,CC,GO:0005829,cytosol,0.000411297691884081,3.39
+hier_cl_averag_3,11,CC,GO:0005838,proteasome regulatory particle,4.04944589732779e-17,16.39
+hier_cl_averag_3,379,CC,GO:0005838,proteasome regulatory particle,9.06623514026935e-07,6.04
+hier_cl_averag_2,7,CC,GO:0005838,proteasome regulatory particle,2.90776040077546e-12,11.54
+hier_cl_averag_2,37,CC,GO:0005838,proteasome regulatory particle,5.29962288107908e-05,4.28
+hier_cl_averag_1,5,CC,GO:0005838,proteasome regulatory particle,5.38604831168092e-08,7.27
+hier_cl_averag_1,7,CC,GO:0005844,polysome,0.000997027304767112,3
+hier_cl_averag_2,2,CC,GO:0005849,mRNA cleavage factor complex,0.000416916499710206,3.38
+hier_cl_averag_1,2,CC,GO:0005849,mRNA cleavage factor complex,0.000325242084299361,3.49
+hier_cl_averag_2,150,CC,GO:0005852,eukaryotic translation initiation factor 3 complex,6.12079792917258e-11,10.21
+hier_cl_averag_1,17,CC,GO:0005852,eukaryotic translation initiation factor 3 complex,2.78725704351564e-08,7.55
+hier_cl_averag_2,21,CC,GO:0005871,kinesin complex,0.000891376614725087,3.05
+hier_cl_averag_2,30,CC,GO:0005871,kinesin complex,8.73746580748818e-05,4.06
+hier_cl_averag_1,1,CC,GO:0005871,kinesin complex,0.000212356169120668,3.67
+hier_cl_averag_3,166,CC,GO:0005874,microtubule,4.49938085525391e-07,6.35
+hier_cl_averag_2,49,CC,GO:0005874,microtubule,5.42474128657338e-05,4.27
+hier_cl_averag_1,18,CC,GO:0005874,microtubule,0.000300035783580798,3.52
+hier_cl_averag_1,7,CC,GO:0005886,plasma membrane,7.0444495592743e-05,4.15
+hier_cl_averag_2,31,CC,GO:0005938,cell cortex,6.33599402645203e-05,4.2
+hier_cl_averag_2,101,CC,GO:0005938,cell cortex,8.28799982214165e-06,5.08
+hier_cl_averag_1,7,CC,GO:0005938,cell cortex,0.000180896075362662,3.74
+hier_cl_averag_2,23,BP,GO:0006066,alcohol metabolic process,0.000496020453780726,3.3
+hier_cl_averag_1,25,BP,GO:0006099,tricarboxylic acid cycle,0.000186878515199791,3.73
+hier_cl_averag_1,2,BP,GO:0006260,DNA replication,5.24551287925629e-05,4.28
+hier_cl_averag_3,336,BP,GO:0006270,DNA replication initiation,5.99480597273891e-10,9.22
+hier_cl_averag_2,16,BP,GO:0006270,DNA replication initiation,7.27686594456779e-05,4.14
+hier_cl_averag_2,5,BP,GO:0006275,regulation of DNA replication,0.000367081798921427,3.44
+hier_cl_averag_2,2,BP,GO:0006302,double-strand break repair,0.000394501925562763,3.4
+hier_cl_averag_1,2,BP,GO:0006302,double-strand break repair,0.000146342794500743,3.83
+hier_cl_averag_2,2,BP,GO:0006303,double-strand break repair via nonhomologous end joining,0.000268971053957296,3.57
+hier_cl_averag_1,2,BP,GO:0006303,double-strand break repair via nonhomologous end joining,3.61006188228403e-06,5.44
+hier_cl_averag_3,12,BP,GO:0006333,chromatin assembly or disassembly,4.33597630649448e-05,4.36
+hier_cl_averag_3,33,BP,GO:0006333,chromatin assembly or disassembly,0.000205489091082973,3.69
+hier_cl_averag_1,2,BP,GO:0006333,chromatin assembly or disassembly,0.00035204595179167,3.45
+hier_cl_averag_2,5,BP,GO:0006338,chromatin remodeling,0.000274766597602611,3.56
+hier_cl_averag_1,2,BP,GO:0006338,chromatin remodeling,1.77810783225452e-05,4.75
+hier_cl_averag_3,12,BP,GO:0006355,"regulation of transcription, DNA-templated",2.76869805221719e-05,4.56
+hier_cl_averag_2,2,BP,GO:0006355,"regulation of transcription, DNA-templated",5.30347203763498e-05,4.28
+hier_cl_averag_2,5,BP,GO:0006355,"regulation of transcription, DNA-templated",1.41087063345339e-09,8.85
+hier_cl_averag_1,2,BP,GO:0006355,"regulation of transcription, DNA-templated",6.93897764144314e-18,17.16
+hier_cl_averag_1,2,BP,GO:0006357,regulation of transcription by RNA polymerase II,1.77542419163948e-09,8.75
+hier_cl_averag_3,88,BP,GO:0006364,rRNA processing,7.30989461190798e-10,9.14
+hier_cl_averag_3,92,BP,GO:0006364,rRNA processing,5.35811167694244e-06,5.27
+hier_cl_averag_3,165,BP,GO:0006364,rRNA processing,0.000132151192731498,3.88
+hier_cl_averag_2,8,BP,GO:0006364,rRNA processing,2.10027094184813e-12,11.68
+hier_cl_averag_2,15,BP,GO:0006364,rRNA processing,1.46906452403739e-12,11.83
+hier_cl_averag_2,72,BP,GO:0006364,rRNA processing,3.62139383315773e-05,4.44
+hier_cl_averag_1,6,BP,GO:0006364,rRNA processing,3.72278372660921e-08,7.43
+hier_cl_averag_1,10,BP,GO:0006364,rRNA processing,1.75519604310487e-16,15.76
+hier_cl_averag_1,19,BP,GO:0006364,rRNA processing,0.000965657711366331,3.02
+hier_cl_averag_1,2,BP,GO:0006367,transcription initiation from RNA polymerase II promoter,2.03255260236106e-06,5.69
+hier_cl_averag_3,12,BP,GO:0006368,transcription elongation from RNA polymerase II promoter,0.000945477822575169,3.02
+hier_cl_averag_3,232,BP,GO:0006376,mRNA splice site selection,0.000562720554557443,3.25
+hier_cl_averag_2,2,BP,GO:0006378,mRNA polyadenylation,0.000575600224267609,3.24
+hier_cl_averag_1,2,BP,GO:0006378,mRNA polyadenylation,0.000773654384123568,3.11
+hier_cl_averag_3,499,BP,GO:0006383,transcription by RNA polymerase III,0.000673823132403008,3.17
+hier_cl_averag_1,2,BP,GO:0006397,mRNA processing,0.000244905081549788,3.61
+hier_cl_averag_1,6,BP,GO:0006400,tRNA modification,0.00034662854971445,3.46
+hier_cl_averag_1,2,BP,GO:0006406,mRNA export from nucleus,0.000494476966986305,3.31
+hier_cl_averag_3,834,BP,GO:0006412,translation,0.000707479667999087,3.15
+hier_cl_averag_2,19,BP,GO:0006412,translation,0.000650489912432315,3.19
+hier_cl_averag_2,25,BP,GO:0006412,translation,4.65993457014823e-07,6.33
+hier_cl_averag_2,44,BP,GO:0006412,translation,1.30682494930453e-05,4.88
+hier_cl_averag_1,15,BP,GO:0006412,translation,5.33737899148238e-15,14.27
+hier_cl_averag_1,19,BP,GO:0006412,translation,5.51341118907578e-13,12.26
+hier_cl_averag_3,16,BP,GO:0006418,tRNA aminoacylation for protein translation,0.000561170478589737,3.25
+hier_cl_averag_3,265,BP,GO:0006418,tRNA aminoacylation for protein translation,0.000561170478589737,3.25
+hier_cl_averag_2,13,BP,GO:0006418,tRNA aminoacylation for protein translation,6.20079413082452e-05,4.21
+hier_cl_averag_1,7,BP,GO:0006418,tRNA aminoacylation for protein translation,5.76110506689108e-05,4.24
+hier_cl_averag_1,9,BP,GO:0006418,tRNA aminoacylation for protein translation,7.22465479257493e-07,6.14
+hier_cl_averag_1,17,BP,GO:0006446,regulation of translational initiation,5.92039836848553e-06,5.23
+hier_cl_averag_3,166,BP,GO:0006457,protein folding,2.87321201810797e-14,13.54
+hier_cl_averag_2,49,BP,GO:0006457,protein folding,2.13956819409845e-10,9.67
+hier_cl_averag_1,16,BP,GO:0006457,protein folding,1.54589085358308e-05,4.81
+hier_cl_averag_2,133,BP,GO:0006487,protein N-linked glycosylation,0.000341356495149593,3.47
+hier_cl_averag_1,20,BP,GO:0006487,protein N-linked glycosylation,1.11557345293819e-05,4.95
+hier_cl_averag_3,11,BP,GO:0006511,ubiquitin-dependent protein catabolic process,0.000369653456290213,3.43
+hier_cl_averag_1,1,BP,GO:0006606,protein import into nucleus,0.000330586868178753,3.48
+hier_cl_averag_2,62,BP,GO:0006650,glycerophospholipid metabolic process,4.52321451458394e-05,4.34
+hier_cl_averag_1,1,BP,GO:0006650,glycerophospholipid metabolic process,0.000294873657856165,3.53
+hier_cl_averag_2,96,BP,GO:0006695,cholesterol biosynthetic process,0.00031876092740069,3.5
+hier_cl_averag_3,50,BP,GO:0006790,sulfur compound metabolic process,0.000352930120140287,3.45
+hier_cl_averag_2,23,BP,GO:0006790,sulfur compound metabolic process,0.000749470381574568,3.13
+hier_cl_averag_1,23,BP,GO:0006886,intracellular protein transport,0.000623027535055185,3.21
+hier_cl_averag_1,22,BP,GO:0006888,endoplasmic reticulum to Golgi vesicle-mediated transport,3.38363203897966e-06,5.47
+hier_cl_averag_2,12,BP,GO:0006891,intra-Golgi vesicle-mediated transport,2.67355590432744e-10,9.57
+hier_cl_averag_1,8,BP,GO:0006891,intra-Golgi vesicle-mediated transport,2.40759780942229e-11,10.62
+hier_cl_averag_1,23,BP,GO:0006891,intra-Golgi vesicle-mediated transport,1.5679934664486e-08,7.8
+hier_cl_averag_2,111,BP,GO:0006893,Golgi to plasma membrane transport,0.000390531149675229,3.41
+hier_cl_averag_2,101,BP,GO:0006897,endocytosis,0.000989381656157754,3
+hier_cl_averag_1,7,BP,GO:0006898,receptor-mediated endocytosis,0.000634032086096087,3.2
+hier_cl_averag_1,22,BP,GO:0006900,vesicle budding from membrane,0.000749039111500848,3.13
+hier_cl_averag_2,101,BP,GO:0006909,phagocytosis,3.87985810112423e-05,4.41
+hier_cl_averag_2,1,BP,GO:0006914,autophagy,6.85609214188418e-05,4.16
+hier_cl_averag_3,305,BP,GO:0006936,muscle contraction,0.00022819762307273,3.64
+hier_cl_averag_1,2,BP,GO:0006974,cellular response to DNA damage stimulus,3.08536222593655e-05,4.51
+hier_cl_averag_1,1,BP,GO:0007018,microtubule-based movement,6.2336493933619e-06,5.21
+hier_cl_averag_2,12,BP,GO:0007030,Golgi organization,3.56106920958127e-05,4.45
+hier_cl_averag_1,8,BP,GO:0007030,Golgi organization,1.42329301425569e-06,5.85
+hier_cl_averag_2,48,BP,GO:0007049,cell cycle,0.000987710818837718,3.01
+hier_cl_averag_3,53,BP,GO:0007064,mitotic sister chromatid cohesion,0.000623018147906425,3.21
+hier_cl_averag_3,169,BP,GO:0007076,mitotic chromosome condensation,0.000409127010816214,3.39
+hier_cl_averag_2,3,BP,GO:0007080,mitotic metaphase plate congression,0.00094879330767151,3.02
+hier_cl_averag_1,21,BP,GO:0007099,centriole replication,3.89941199055026e-05,4.41
+hier_cl_averag_3,346,BP,GO:0007265,Ras protein signal transduction,1.87754782031901e-05,4.73
+hier_cl_averag_2,101,BP,GO:0007265,Ras protein signal transduction,2.72089134306328e-05,4.57
+hier_cl_averag_1,5,BP,GO:0007265,Ras protein signal transduction,8.08829771294808e-07,6.09
+hier_cl_averag_3,346,BP,GO:0007266,Rho protein signal transduction,0.000476586795095093,3.32
+hier_cl_averag_2,101,BP,GO:0007266,Rho protein signal transduction,1.29461599459559e-06,5.89
+hier_cl_averag_1,5,BP,GO:0007266,Rho protein signal transduction,0.000123265199088811,3.91
+hier_cl_averag_3,166,BP,GO:0007338,single fertilization,2.79514854434555e-12,11.55
+hier_cl_averag_2,49,BP,GO:0007338,single fertilization,3.20617653418405e-10,9.49
+hier_cl_averag_1,16,BP,GO:0007338,single fertilization,2.72612234829e-06,5.56
+hier_cl_averag_1,7,BP,GO:0007411,axon guidance,6.0874124685038e-05,4.22
+hier_cl_averag_1,2,BP,GO:0007492,endoderm development,0.000416280413154035,3.38
+hier_cl_averag_2,30,MF,GO:0008017,microtubule binding,0.000794260908102992,3.1
+hier_cl_averag_2,2,CC,GO:0008023,transcription elongation factor complex,0.00014464813219433,3.84
+hier_cl_averag_1,2,CC,GO:0008023,transcription elongation factor complex,2.19598813760545e-07,6.66
+hier_cl_averag_1,2,MF,GO:0008094,DNA-dependent ATPase activity,2.16210679113e-06,5.67
+hier_cl_averag_1,7,MF,GO:0008135,"translation factor activity, RNA binding",0.000594720892832161,3.23
+hier_cl_averag_2,7,CC,GO:0008180,COP9 signalosome,1.3613390735923e-07,6.87
+hier_cl_averag_1,5,CC,GO:0008180,COP9 signalosome,4.35195669963766e-05,4.36
+hier_cl_averag_3,22,MF,GO:0008270,zinc ion binding,0.000941174404957409,3.03
+hier_cl_averag_1,2,MF,GO:0008270,zinc ion binding,8.24478777003188e-06,5.08
+hier_cl_averag_2,101,BP,GO:0008360,regulation of cell shape,0.000237040817618487,3.63
+hier_cl_averag_3,175,BP,GO:0008380,RNA splicing,0.000976887015066212,3.01
+hier_cl_averag_2,16,BP,GO:0008380,RNA splicing,0.000188481532263083,3.72
+hier_cl_averag_1,2,BP,GO:0008380,RNA splicing,0.000950279954168449,3.02
+hier_cl_averag_2,3,BP,GO:0008608,attachment of spindle microtubules to kinetochore,0.000630736938972378,3.2
+hier_cl_averag_2,46,BP,GO:0009112,nucleobase metabolic process,0.000186878515199791,3.73
+hier_cl_averag_3,249,BP,GO:0009152,purine ribonucleotide biosynthetic process,1.9055549720511e-05,4.72
+hier_cl_averag_2,49,BP,GO:0009152,purine ribonucleotide biosynthetic process,0.000670360257148501,3.17
+hier_cl_averag_1,16,BP,GO:0009152,purine ribonucleotide biosynthetic process,0.000700389250101169,3.15
+hier_cl_averag_3,249,BP,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,0.000476586795095093,3.32
+hier_cl_averag_2,49,BP,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,0.000119949257661955,3.92
+hier_cl_averag_1,16,BP,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,0.000650811768651559,3.19
+hier_cl_averag_3,36,BP,GO:0009408,response to heat,0.000783788615032562,3.11
+hier_cl_averag_3,166,BP,GO:0009988,cell-cell recognition,6.37769091046919e-13,12.2
+hier_cl_averag_2,49,BP,GO:0009988,cell-cell recognition,7.37355162302354e-11,10.13
+hier_cl_averag_1,16,BP,GO:0009988,cell-cell recognition,6.614628984245e-07,6.18
+hier_cl_averag_2,101,CC,GO:0010008,endosome membrane,0.000749487594117229,3.13
+hier_cl_averag_1,2,BP,GO:0010212,response to ionizing radiation,0.000125406912561607,3.9
+hier_cl_averag_3,33,BP,GO:0010332,response to gamma radiation,0.000512858165261219,3.29
+hier_cl_averag_2,2,BP,GO:0010332,response to gamma radiation,0.000176625194350662,3.75
+hier_cl_averag_1,2,BP,GO:0010332,response to gamma radiation,0.000641818112428367,3.19
+hier_cl_averag_1,2,BP,GO:0010390,histone monoubiquitination,0.000414413757705769,3.38
+hier_cl_averag_1,17,CC,GO:0010494,cytoplasmic stress granule,4.42188051764901e-08,7.35
+hier_cl_averag_2,101,BP,GO:0010810,regulation of cell-substrate adhesion,0.000569937877259622,3.24
+hier_cl_averag_1,5,BP,GO:0010811,positive regulation of cell-substrate adhesion,0.000641636847449531,3.19
+hier_cl_averag_2,64,CC,GO:0012507,ER to Golgi transport vesicle membrane,2.37301694857304e-06,5.62
+hier_cl_averag_1,22,CC,GO:0012507,ER to Golgi transport vesicle membrane,6.38290089332476e-05,4.19
+hier_cl_averag_3,834,CC,GO:0014069,postsynaptic density,0.000944508505934724,3.02
+hier_cl_averag_2,19,CC,GO:0014069,postsynaptic density,0.000944508505934724,3.02
+hier_cl_averag_1,11,CC,GO:0014069,postsynaptic density,0.000100710705662351,4
+hier_cl_averag_1,15,CC,GO:0014069,postsynaptic density,2.12715849500064e-05,4.67
+hier_cl_averag_2,23,MF,GO:0015036,disulfide oxidoreductase activity,0.00096711080852875,3.01
+hier_cl_averag_2,96,MF,GO:0015036,disulfide oxidoreductase activity,0.000692386308738475,3.16
+hier_cl_averag_1,4,CC,GO:0015630,microtubule cytoskeleton,0.000977303882433367,3.01
+hier_cl_averag_2,52,CC,GO:0016021,integral component of membrane,0.000284464596336568,3.55
+hier_cl_averag_2,62,CC,GO:0016021,integral component of membrane,0.000925979544499367,3.03
+hier_cl_averag_2,96,CC,GO:0016021,integral component of membrane,0.00011704710811319,3.93
+hier_cl_averag_2,101,CC,GO:0016021,integral component of membrane,0.000132986798293332,3.88
+hier_cl_averag_1,5,CC,GO:0016021,integral component of membrane,1.66806829172166e-07,6.78
+hier_cl_averag_1,8,CC,GO:0016021,integral component of membrane,0.000218246869966464,3.66
+hier_cl_averag_1,20,CC,GO:0016021,integral component of membrane,0.000173632899092158,3.76
+hier_cl_averag_1,28,CC,GO:0016021,integral component of membrane,1.92991482063786e-06,5.71
+hier_cl_averag_3,33,BP,GO:0016180,snRNA processing,1.75521818542203e-05,4.76
+hier_cl_averag_2,2,BP,GO:0016180,snRNA processing,3.02425855411778e-06,5.52
+hier_cl_averag_2,1,BP,GO:0016192,vesicle-mediated transport,0.000818824070248482,3.09
+hier_cl_averag_3,36,MF,GO:0016209,antioxidant activity,0.000145378744688173,3.84
+hier_cl_averag_1,1,MF,GO:0016209,antioxidant activity,5.79500820831462e-05,4.24
+hier_cl_averag_1,1,MF,GO:0016301,kinase activity,0.000520249901184828,3.28
+hier_cl_averag_3,71,CC,GO:0016363,nuclear matrix,0.000206921386090512,3.68
+hier_cl_averag_1,5,MF,GO:0016491,oxidoreductase activity,8.97471528377544e-07,6.05
+hier_cl_averag_3,12,CC,GO:0016514,SWI/SNF complex,5.47944464534828e-07,6.26
+hier_cl_averag_2,5,CC,GO:0016514,SWI/SNF complex,0.000129219458277476,3.89
+hier_cl_averag_1,2,CC,GO:0016514,SWI/SNF complex,3.08526321458698e-06,5.51
+hier_cl_averag_1,2,BP,GO:0016575,histone deacetylation,5.92656316815855e-10,9.23
+hier_cl_averag_1,2,CC,GO:0016581,NuRD complex,2.57919593390711e-05,4.59
+hier_cl_averag_3,99,BP,GO:0016584,nucleosome positioning,0.000812525165362792,3.09
+hier_cl_averag_2,96,BP,GO:0016584,nucleosome positioning,0.000433940929445883,3.36
+hier_cl_averag_1,2,CC,GO:0016591,"RNA polymerase II, holoenzyme",9.86255736975288e-07,6.01
+hier_cl_averag_2,2,CC,GO:0016592,mediator complex,0.000511983285736961,3.29
+hier_cl_averag_1,2,CC,GO:0016592,mediator complex,7.91074650085892e-06,5.1
+hier_cl_averag_2,5,CC,GO:0016604,nuclear body,7.50659348305604e-07,6.12
+hier_cl_averag_1,2,CC,GO:0016604,nuclear body,1.42966164358373e-06,5.84
+hier_cl_averag_3,12,CC,GO:0016607,nuclear speck,8.59816455954262e-06,5.07
+hier_cl_averag_3,33,CC,GO:0016607,nuclear speck,0.000296205146356092,3.53
+hier_cl_averag_2,2,CC,GO:0016607,nuclear speck,5.65597553894281e-05,4.25
+hier_cl_averag_2,5,CC,GO:0016607,nuclear speck,1.10735279642633e-05,4.96
+hier_cl_averag_2,16,CC,GO:0016607,nuclear speck,0.000195667976651069,3.71
+hier_cl_averag_1,2,CC,GO:0016607,nuclear speck,3.537306700027e-17,16.45
+hier_cl_averag_1,21,MF,GO:0016616,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0.000777061766092102,3.11
+hier_cl_averag_1,20,MF,GO:0016757,"transferase activity, transferring glycosyl groups",0.000842353262207364,3.07
+hier_cl_averag_3,50,MF,GO:0016765,"transferase activity, transferring alkyl or aryl (other than methyl) groups",0.000629561760505888,3.2
+hier_cl_averag_2,7,MF,GO:0016765,"transferase activity, transferring alkyl or aryl (other than methyl) groups",2.29792726488137e-05,4.64
+hier_cl_averag_2,23,MF,GO:0016765,"transferase activity, transferring alkyl or aryl (other than methyl) groups",0.00096711080852875,3.01
+hier_cl_averag_1,5,MF,GO:0016765,"transferase activity, transferring alkyl or aryl (other than methyl) groups",0.000187367864967223,3.73
+hier_cl_averag_2,26,MF,GO:0016773,"phosphotransferase activity, alcohol group as acceptor",0.000938405126050968,3.03
+hier_cl_averag_2,23,MF,GO:0016860,intramolecular oxidoreductase activity,0.000665159037196958,3.18
+hier_cl_averag_3,249,MF,GO:0016879,"ligase activity, forming carbon-nitrogen bonds",0.000549680280958781,3.26
+hier_cl_averag_2,46,MF,GO:0016879,"ligase activity, forming carbon-nitrogen bonds",0.000367770717944988,3.43
+hier_cl_averag_2,18,MF,GO:0016891,"endoribonuclease activity, producing 5'-phosphomonoesters",0.000501019431378084,3.3
+hier_cl_averag_1,6,MF,GO:0016891,"endoribonuclease activity, producing 5'-phosphomonoesters",1.78409116324308e-05,4.75
+hier_cl_averag_1,2,CC,GO:0017053,transcription repressor complex,0.000215382820515389,3.67
+hier_cl_averag_3,71,MF,GO:0017056,structural constituent of nuclear pore,3.50606642172396e-05,4.46
+hier_cl_averag_2,30,MF,GO:0017056,structural constituent of nuclear pore,1.49142304115509e-05,4.83
+hier_cl_averag_1,7,MF,GO:0017124,SH3 domain binding,0.00053386513226849,3.27
+hier_cl_averag_2,101,BP,GO:0017157,regulation of exocytosis,0.000952674750961682,3.02
+hier_cl_averag_1,5,BP,GO:0017157,regulation of exocytosis,0.000707956862181296,3.15
+hier_cl_averag_2,5,BP,GO:0018023,peptidyl-lysine trimethylation,0.000621975920082531,3.21
+hier_cl_averag_3,346,MF,GO:0019003,GDP binding,5.3077458944628e-06,5.28
+hier_cl_averag_2,101,MF,GO:0019003,GDP binding,2.49945809394478e-06,5.6
+hier_cl_averag_1,5,MF,GO:0019003,GDP binding,7.45062951544908e-07,6.13
+hier_cl_averag_2,150,BP,GO:0019080,viral gene expression,3.56106920958127e-05,4.45
+hier_cl_averag_1,17,BP,GO:0019080,viral gene expression,0.000783788615032562,3.11
+hier_cl_averag_2,2,BP,GO:0019827,stem cell population maintenance,0.00097613849522671,3.01
+hier_cl_averag_1,2,BP,GO:0019827,stem cell population maintenance,0.000111936816570249,3.95
+hier_cl_averag_3,834,MF,GO:0019843,rRNA binding,4.70111916519559e-06,5.33
+hier_cl_averag_2,25,MF,GO:0019843,rRNA binding,6.61942134948259e-07,6.18
+hier_cl_averag_2,57,MF,GO:0019843,rRNA binding,5.49803958536457e-05,4.26
+hier_cl_averag_1,10,MF,GO:0019843,rRNA binding,5.61494626701178e-05,4.25
+hier_cl_averag_1,15,MF,GO:0019843,rRNA binding,1.16685686099881e-05,4.93
+hier_cl_averag_2,26,CC,GO:0019898,extrinsic component of membrane,0.000291527940370625,3.54
+hier_cl_averag_2,114,MF,GO:0019904,protein domain specific binding,0.00012958784256703,3.89
+hier_cl_averag_3,336,BP,GO:0022616,DNA strand elongation,0.000812525165362792,3.09
+hier_cl_averag_2,19,CC,GO:0022625,cytosolic large ribosomal subunit,1.83694816296986e-05,4.74
+hier_cl_averag_2,25,CC,GO:0022625,cytosolic large ribosomal subunit,4.25122604847817e-06,5.37
+hier_cl_averag_2,57,CC,GO:0022625,cytosolic large ribosomal subunit,0.000287863550253632,3.54
+hier_cl_averag_1,11,CC,GO:0022625,cytosolic large ribosomal subunit,5.64556020194928e-08,7.25
+hier_cl_averag_1,15,CC,GO:0022625,cytosolic large ribosomal subunit,7.81976810632107e-16,15.11
+hier_cl_averag_3,834,CC,GO:0022627,cytosolic small ribosomal subunit,4.58320668535758e-08,7.34
+hier_cl_averag_2,25,CC,GO:0022627,cytosolic small ribosomal subunit,1.34881788680107e-10,9.87
+hier_cl_averag_2,44,CC,GO:0022627,cytosolic small ribosomal subunit,3.44007295656936e-05,4.46
+hier_cl_averag_1,15,CC,GO:0022627,cytosolic small ribosomal subunit,1.52109338290822e-10,9.82
+hier_cl_averag_1,19,CC,GO:0022627,cytosolic small ribosomal subunit,1.68323143223994e-11,10.77
+hier_cl_averag_2,32,CC,GO:0030027,lamellipodium,0.000473134196092489,3.33
+hier_cl_averag_2,101,CC,GO:0030027,lamellipodium,0.000392056079668142,3.41
+hier_cl_averag_1,7,CC,GO:0030027,lamellipodium,0.000227998617405674,3.64
+hier_cl_averag_1,5,BP,GO:0030071,regulation of mitotic metaphase/anaphase transition,0.000437566191371401,3.36
+hier_cl_averag_1,9,CC,GO:0030118,clathrin coat,3.06961597025897e-08,7.51
+hier_cl_averag_2,64,CC,GO:0030120,vesicle coat,2.14311771998205e-07,6.67
+hier_cl_averag_1,22,CC,GO:0030120,vesicle coat,8.91040269623084e-09,8.05
+hier_cl_averag_1,23,CC,GO:0030120,vesicle coat,9.24225122996929e-08,7.03
+hier_cl_averag_1,9,CC,GO:0030136,clathrin-coated vesicle,2.6439940545091e-06,5.58
+hier_cl_averag_1,1,BP,GO:0030258,lipid modification,0.000300217189514389,3.52
+hier_cl_averag_1,23,CC,GO:0030426,growth cone,0.000560174534287925,3.25
+hier_cl_averag_2,133,BP,GO:0030433,ubiquitin-dependent ERAD pathway,4.13428834910385e-06,5.38
+hier_cl_averag_1,20,BP,GO:0030433,ubiquitin-dependent ERAD pathway,2.4432849110346e-05,4.61
+hier_cl_averag_3,88,BP,GO:0030490,maturation of SSU-rRNA,3.26214168958996e-05,4.49
+hier_cl_averag_2,8,BP,GO:0030490,maturation of SSU-rRNA,9.47666978369882e-06,5.02
+hier_cl_averag_2,75,BP,GO:0030490,maturation of SSU-rRNA,0.000227489156279701,3.64
+hier_cl_averag_1,10,BP,GO:0030490,maturation of SSU-rRNA,6.41710775643528e-05,4.19
+hier_cl_averag_3,88,MF,GO:0030515,snoRNA binding,2.83183501355476e-11,10.55
+hier_cl_averag_2,8,MF,GO:0030515,snoRNA binding,1.33894576180776e-14,13.87
+hier_cl_averag_2,75,MF,GO:0030515,snoRNA binding,0.000564139439824629,3.25
+hier_cl_averag_1,6,MF,GO:0030515,snoRNA binding,7.1335724240788e-08,7.15
+hier_cl_averag_1,10,MF,GO:0030515,snoRNA binding,0.00066596737870271,3.18
+hier_cl_averag_3,88,CC,GO:0030686,90S preribosome,8.493813426534e-14,13.07
+hier_cl_averag_3,92,CC,GO:0030686,90S preribosome,1.28294965491218e-06,5.89
+hier_cl_averag_2,8,CC,GO:0030686,90S preribosome,3.70135975385191e-16,15.43
+hier_cl_averag_2,15,CC,GO:0030686,90S preribosome,7.65470528065353e-06,5.12
+hier_cl_averag_1,6,CC,GO:0030686,90S preribosome,3.75804601979952e-09,8.43
+hier_cl_averag_1,10,CC,GO:0030686,90S preribosome,1.81604704517688e-05,4.74
+hier_cl_averag_3,165,CC,GO:0030687,"preribosome, large subunit precursor",3.1657883593041e-05,4.5
+hier_cl_averag_2,15,CC,GO:0030687,"preribosome, large subunit precursor",4.1683746373061e-06,5.38
+hier_cl_averag_2,72,CC,GO:0030687,"preribosome, large subunit precursor",5.54962226899411e-06,5.26
+hier_cl_averag_1,10,CC,GO:0030687,"preribosome, large subunit precursor",1.98217609319884e-13,12.7
+hier_cl_averag_1,7,CC,GO:0030864,cortical actin cytoskeleton,0.000910432387538792,3.04
+hier_cl_averag_2,101,BP,GO:0030865,cortical cytoskeleton organization,2.77421334391617e-06,5.56
+hier_cl_averag_1,23,BP,GO:0030890,positive regulation of B cell proliferation,0.000409127010816214,3.39
+hier_cl_averag_3,12,BP,GO:0031062,positive regulation of histone methylation,0.000473988761302333,3.32
+hier_cl_averag_3,77,MF,GO:0031072,heat shock protein binding,2.4638064690585e-05,4.61
+hier_cl_averag_2,1,MF,GO:0031072,heat shock protein binding,2.8291855808058e-06,5.55
+hier_cl_averag_2,59,BP,GO:0031116,positive regulation of microtubule polymerization,0.000186878515199791,3.73
+hier_cl_averag_1,7,BP,GO:0031116,positive regulation of microtubule polymerization,0.000647030485949269,3.19
+hier_cl_averag_1,4,BP,GO:0031122,cytoplasmic microtubule organization,0.000567608486749543,3.25
+hier_cl_averag_1,1,BP,GO:0031175,neuron projection development,5.15973481417583e-05,4.29
+hier_cl_averag_2,101,CC,GO:0031253,cell projection membrane,0.000137768783355844,3.86
+hier_cl_averag_1,7,CC,GO:0031253,cell projection membrane,2.62503855156251e-05,4.58
+hier_cl_averag_2,7,BP,GO:0031334,positive regulation of protein-containing complex assembly,0.000976258873681163,3.01
+hier_cl_averag_1,17,MF,GO:0031369,translation initiation factor binding,8.99865634723319e-05,4.05
+hier_cl_averag_2,57,BP,GO:0031397,negative regulation of protein ubiquitination,8.1986925182667e-05,4.09
+hier_cl_averag_3,17,BP,GO:0031440,regulation of mRNA 3'-end processing,0.000569526553552976,3.24
+hier_cl_averag_3,234,BP,GO:0031445,regulation of heterochromatin assembly,0.000186878515199791,3.73
+hier_cl_averag_2,30,BP,GO:0031445,regulation of heterochromatin assembly,5.42464383803517e-05,4.27
+hier_cl_averag_1,5,CC,GO:0031461,cullin-RING ubiquitin ligase complex,0.000897494798667005,3.05
+hier_cl_averag_3,99,MF,GO:0031492,nucleosomal DNA binding,0.000388608857943636,3.41
+hier_cl_averag_2,96,MF,GO:0031492,nucleosomal DNA binding,0.000524854180118241,3.28
+hier_cl_averag_2,48,BP,GO:0031935,regulation of chromatin silencing,1.69806613864485e-05,4.77
+hier_cl_averag_2,96,BP,GO:0031935,regulation of chromatin silencing,0.000929062774475963,3.03
+hier_cl_averag_3,71,CC,GO:0031965,nuclear membrane,0.000138008890739974,3.86
+hier_cl_averag_3,33,CC,GO:0032039,integrator complex,0.000121189138187628,3.92
+hier_cl_averag_2,2,CC,GO:0032039,integrator complex,9.35268494653799e-08,7.03
+hier_cl_averag_1,2,CC,GO:0032039,integrator complex,3.74131947935691e-06,5.43
+hier_cl_averag_3,88,CC,GO:0032040,small-subunit processome,2.51731201840137e-15,14.6
+hier_cl_averag_3,465,CC,GO:0032040,small-subunit processome,0.000859432374664767,3.07
+hier_cl_averag_2,8,CC,GO:0032040,small-subunit processome,2.7031152791411e-17,16.57
+hier_cl_averag_2,15,CC,GO:0032040,small-subunit processome,0.000269161972239631,3.57
+hier_cl_averag_1,6,CC,GO:0032040,small-subunit processome,1.52003839241439e-09,8.82
+hier_cl_averag_1,10,CC,GO:0032040,small-subunit processome,2.25006230790576e-06,5.65
+hier_cl_averag_1,6,BP,GO:0032210,regulation of telomere maintenance via telomerase,0.000237382847856168,3.62
+hier_cl_averag_3,166,BP,GO:0032212,positive regulation of telomere maintenance via telomerase,2.79514854434555e-12,11.55
+hier_cl_averag_2,49,BP,GO:0032212,positive regulation of telomere maintenance via telomerase,3.20617653418405e-10,9.49
+hier_cl_averag_1,16,BP,GO:0032212,positive regulation of telomere maintenance via telomerase,2.72612234829e-06,5.56
+hier_cl_averag_2,114,BP,GO:0032412,regulation of ion transmembrane transporter activity,0.000323032254152838,3.49
+hier_cl_averag_1,1,BP,GO:0032436,positive regulation of proteasomal ubiquitin-dependent protein catabolic process,0.000569767368551297,3.24
+hier_cl_averag_2,5,MF,GO:0032452,histone demethylase activity,0.000216106237576619,3.67
+hier_cl_averag_1,2,MF,GO:0032452,histone demethylase activity,0.000172129002389038,3.76
+hier_cl_averag_3,346,BP,GO:0032467,positive regulation of cytokinesis,0.000571030493085523,3.24
+hier_cl_averag_3,499,BP,GO:0032481,positive regulation of type I interferon production,0.000571030493085523,3.24
+hier_cl_averag_3,336,BP,GO:0032508,DNA duplex unwinding,1.65893247243296e-07,6.78
+hier_cl_averag_2,16,BP,GO:0032508,DNA duplex unwinding,3.16351731553258e-07,6.5
+hier_cl_averag_1,2,BP,GO:0032508,DNA duplex unwinding,2.79848812073733e-05,4.55
+hier_cl_averag_3,499,BP,GO:0032648,regulation of interferon-beta production,0.000390531149675229,3.41
+hier_cl_averag_2,16,CC,GO:0032806,carboxy-terminal domain protein kinase complex,6.14069445679767e-05,4.21
+hier_cl_averag_1,2,CC,GO:0032806,carboxy-terminal domain protein kinase complex,0.000512632250038204,3.29
+hier_cl_averag_1,2,BP,GO:0032968,positive regulation of transcription elongation from RNA polymerase II promoter,0.000416280413154035,3.38
+hier_cl_averag_2,5,BP,GO:0032984,protein-containing complex disassembly,0.000212675835330912,3.67
+hier_cl_averag_3,336,BP,GO:0033260,nuclear DNA replication,6.23590095715253e-07,6.21
+hier_cl_averag_3,71,CC,GO:0033276,transcription factor TFTC complex,3.55061792068907e-05,4.45
+hier_cl_averag_1,2,CC,GO:0033276,transcription factor TFTC complex,0.000512632250038204,3.29
+hier_cl_averag_2,150,CC,GO:0033290,eukaryotic 48S preinitiation complex,3.34244473601292e-11,10.48
+hier_cl_averag_1,17,CC,GO:0033290,eukaryotic 48S preinitiation complex,1.53024458919157e-08,7.82
+hier_cl_averag_1,2,BP,GO:0033522,histone H2A ubiquitination,0.000641818112428367,3.19
+hier_cl_averag_3,12,BP,GO:0033523,histone H2B ubiquitination,0.000842771205631496,3.07
+hier_cl_averag_1,7,BP,GO:0034314,Arp2/3 complex-mediated actin nucleation,0.000647030485949269,3.19
+hier_cl_averag_1,21,CC,GO:0034451,centriolar satellite,0.000195895657227006,3.71
+hier_cl_averag_3,68,CC,GO:0034719,SMN-Sm protein complex,0.000186029863378229,3.73
+hier_cl_averag_3,12,BP,GO:0034728,nucleosome organization,3.67265299198333e-05,4.44
+hier_cl_averag_1,2,BP,GO:0034728,nucleosome organization,0.000310907728841819,3.51
+hier_cl_averag_1,5,BP,GO:0034976,response to endoplasmic reticulum stress,0.000349029514253492,3.46
+hier_cl_averag_3,152,MF,GO:0035064,methylated histone binding,0.00041528616947618,3.38
+hier_cl_averag_2,48,MF,GO:0035064,methylated histone binding,0.000130765256714733,3.88
+hier_cl_averag_3,53,CC,GO:0035097,histone methyltransferase complex,0.000850353522220264,3.07
+hier_cl_averag_1,2,CC,GO:0035097,histone methyltransferase complex,4.13286938113838e-05,4.38
+hier_cl_averag_2,5,BP,GO:0035264,multicellular organism growth,0.000538903271134389,3.27
+hier_cl_averag_1,4,BP,GO:0035304,regulation of protein dephosphorylation,0.000766740914251913,3.12
+hier_cl_averag_2,114,BP,GO:0035305,negative regulation of dephosphorylation,0.000561170478589737,3.25
+hier_cl_averag_1,4,BP,GO:0035305,negative regulation of dephosphorylation,0.000160285644346868,3.8
+hier_cl_averag_2,2,MF,GO:0036002,pre-mRNA binding,0.000558669945731703,3.25
+hier_cl_averag_1,2,MF,GO:0036002,pre-mRNA binding,0.00021837706795125,3.66
+hier_cl_averag_1,23,BP,GO:0042129,regulation of T cell proliferation,0.000648498713883853,3.19
+hier_cl_averag_2,11,BP,GO:0042147,"retrograde transport, endosome to Golgi",0.000138699234999664,3.86
+hier_cl_averag_3,2,MF,GO:0042162,telomeric DNA binding,0.000515306519533243,3.29
+hier_cl_averag_3,11,BP,GO:0042176,regulation of protein catabolic process,2.65034148702028e-05,4.58
+hier_cl_averag_2,7,BP,GO:0042176,regulation of protein catabolic process,0.000146348747978516,3.83
+hier_cl_averag_3,88,BP,GO:0042254,ribosome biogenesis,1.25096823827437e-06,5.9
+hier_cl_averag_2,8,BP,GO:0042254,ribosome biogenesis,4.13015110332818e-06,5.38
+hier_cl_averag_3,56,BP,GO:0042273,ribosomal large subunit biogenesis,0.000115948303917288,3.94
+hier_cl_averag_2,15,BP,GO:0042273,ribosomal large subunit biogenesis,9.3154605257661e-06,5.03
+hier_cl_averag_2,72,BP,GO:0042273,ribosomal large subunit biogenesis,1.8087955698026e-05,4.74
+hier_cl_averag_1,10,BP,GO:0042273,ribosomal large subunit biogenesis,7.68867299324514e-11,10.11
+hier_cl_averag_1,10,BP,GO:0042274,ribosomal small subunit biogenesis,0.000887540652571661,3.05
+hier_cl_averag_1,19,BP,GO:0042274,ribosomal small subunit biogenesis,5.4499463180981e-08,7.26
+hier_cl_averag_2,114,BP,GO:0042391,regulation of membrane potential,0.000434053315567827,3.36
+hier_cl_averag_3,33,MF,GO:0042393,histone binding,0.000481374767373833,3.32
+hier_cl_averag_1,2,MF,GO:0042393,histone binding,9.33123105962098e-07,6.03
+hier_cl_averag_1,15,CC,GO:0042788,polysomal ribosome,0.00012644484553265,3.9
+hier_cl_averag_1,2,MF,GO:0042826,histone deacetylase binding,0.000553110578111015,3.26
+hier_cl_averag_1,7,MF,GO:0043022,ribosome binding,0.00072908086317232,3.14
+hier_cl_averag_3,33,BP,GO:0043044,ATP-dependent chromatin remodeling,4.79583803103952e-05,4.32
+hier_cl_averag_1,2,BP,GO:0043044,ATP-dependent chromatin remodeling,1.0893121646634e-07,6.96
+hier_cl_averag_2,23,BP,GO:0043123,positive regulation of I-kappaB kinase/NF-kappaB signaling,0.000319041243053635,3.5
+hier_cl_averag_3,133,MF,GO:0043130,ubiquitin binding,0.000195258611532752,3.71
+hier_cl_averag_1,1,MF,GO:0043130,ubiquitin binding,0.000183436091873294,3.74
+hier_cl_averag_3,11,BP,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,8.17606891553912e-09,8.09
+hier_cl_averag_2,7,BP,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,1.35010787607311e-07,6.87
+hier_cl_averag_1,1,BP,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,0.000916220981052927,3.04
+hier_cl_averag_1,5,BP,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,6.30760916446937e-09,8.2
+hier_cl_averag_2,32,BP,GO:0043270,positive regulation of ion transport,0.000673938800971098,3.17
+hier_cl_averag_1,22,BP,GO:0043547,positive regulation of GTPase activity,1.34337048876575e-05,4.87
+hier_cl_averag_1,2,MF,GO:0043565,sequence-specific DNA binding,4.80300335805213e-05,4.32
+hier_cl_averag_2,2,BP,GO:0043967,histone H4 acetylation,0.000163661399699877,3.79
+hier_cl_averag_1,2,BP,GO:0043967,histone H4 acetylation,2.2770366077763e-05,4.64
+hier_cl_averag_2,101,BP,GO:0044089,positive regulation of cellular component biogenesis,0.000315952386146107,3.5
+hier_cl_averag_2,23,BP,GO:0044248,cellular catabolic process,0.000288622738302584,3.54
+hier_cl_averag_1,1,BP,GO:0044248,cellular catabolic process,0.000346024411347797,3.46
+hier_cl_averag_1,1,BP,GO:0044262,cellular carbohydrate metabolic process,0.000300333189346646,3.52
+hier_cl_averag_3,26,BP,GO:0044272,sulfur compound biosynthetic process,0.000434053315567827,3.36
+hier_cl_averag_2,23,BP,GO:0044282,small molecule catabolic process,0.000770214827022053,3.11
+hier_cl_averag_3,166,CC,GO:0044297,cell body,7.82520514346565e-09,8.11
+hier_cl_averag_2,49,CC,GO:0044297,cell body,1.09968421186303e-06,5.96
+hier_cl_averag_2,114,MF,GO:0044325,ion channel binding,0.000388608857943636,3.41
+hier_cl_averag_3,375,CC,GO:0044815,DNA packaging complex,0.000113746755003386,3.94
+hier_cl_averag_1,1,BP,GO:0045087,innate immune response,0.000607337962700574,3.22
+hier_cl_averag_2,49,CC,GO:0045177,apical part of cell,0.000182241577176859,3.74
+hier_cl_averag_1,16,CC,GO:0045177,apical part of cell,0.000822073537542632,3.09
+hier_cl_averag_1,23,BP,GO:0045191,regulation of isotype switching,0.000279633474016759,3.55
+hier_cl_averag_1,19,CC,GO:0045202,synapse,0.000284129446362404,3.55
+hier_cl_averag_2,2,BP,GO:0045292,"mRNA cis splicing, via spliceosome",0.000420835778109351,3.38
+hier_cl_averag_1,2,BP,GO:0045292,"mRNA cis splicing, via spliceosome",1.2967107710168e-05,4.89
+hier_cl_averag_2,114,MF,GO:0045309,protein phosphorylated amino acid binding,0.000640456369378237,3.19
+hier_cl_averag_3,36,BP,GO:0045454,cell redox homeostasis,0.000476293531623378,3.32
+hier_cl_averag_1,5,BP,GO:0045454,cell redox homeostasis,3.3114132675501e-05,4.48
+hier_cl_averag_2,111,BP,GO:0045766,positive regulation of angiogenesis,0.000571030493085523,3.24
+hier_cl_averag_2,48,BP,GO:0045815,"positive regulation of gene expression, epigenetic",1.2232167011827e-05,4.91
+hier_cl_averag_2,96,BP,GO:0045815,"positive regulation of gene expression, epigenetic",0.000737297247896149,3.13
+hier_cl_averag_1,2,BP,GO:0045892,"negative regulation of transcription, DNA-templated",8.29121569034302e-06,5.08
+hier_cl_averag_1,23,BP,GO:0045911,positive regulation of DNA recombination,0.000941490508793465,3.03
+hier_cl_averag_3,53,BP,GO:0045944,positive regulation of transcription by RNA polymerase II,0.000618255448458263,3.21
+hier_cl_averag_2,5,BP,GO:0045944,positive regulation of transcription by RNA polymerase II,1.42108351187112e-07,6.85
+hier_cl_averag_1,2,BP,GO:0045944,positive regulation of transcription by RNA polymerase II,3.03188039399216e-11,10.52
+hier_cl_averag_3,48,CC,GO:0046540,U4/U6 x U5 tri-snRNP complex,1.48572784486156e-05,4.83
+hier_cl_averag_3,68,CC,GO:0046540,U4/U6 x U5 tri-snRNP complex,0.000493361100239525,3.31
+hier_cl_averag_2,16,CC,GO:0046540,U4/U6 x U5 tri-snRNP complex,0.000191891873784762,3.72
+hier_cl_averag_1,4,BP,GO:0046785,microtubule polymerization,0.000762621618119035,3.12
+hier_cl_averag_3,17,BP,GO:0046831,regulation of RNA export from nucleus,0.000392705902923117,3.41
+hier_cl_averag_1,2,BP,GO:0046831,regulation of RNA export from nucleus,5.65766979011281e-05,4.25
+hier_cl_averag_3,375,MF,GO:0046982,protein heterodimerization activity,9.99114812689358e-05,4
+hier_cl_averag_3,33,MF,GO:0047485,protein N-terminus binding,0.000589663413296564,3.23
+hier_cl_averag_1,2,MF,GO:0047485,protein N-terminus binding,0.000284423304787309,3.55
+hier_cl_averag_3,834,MF,GO:0048027,mRNA 5'-UTR binding,0.000428645496399506,3.37
+hier_cl_averag_1,19,MF,GO:0048027,mRNA 5'-UTR binding,8.85218975604177e-05,4.05
+hier_cl_averag_1,22,BP,GO:0048193,Golgi vesicle transport,4.09235636675919e-06,5.39
+hier_cl_averag_1,6,BP,GO:0048255,mRNA stabilization,0.000764523036791118,3.12
+hier_cl_averag_2,11,BP,GO:0048285,organelle fission,0.000493149038293445,3.31
+hier_cl_averag_2,1,CC,GO:0048471,perinuclear region of cytoplasm,0.000637354698488352,3.2
+hier_cl_averag_2,14,BP,GO:0048519,negative regulation of biological process,0.000696348433599562,3.16
+hier_cl_averag_3,37,BP,GO:0048545,response to steroid hormone,0.000287163561985182,3.54
+hier_cl_averag_2,5,BP,GO:0048705,skeletal system morphogenesis,0.000656171509706944,3.18
+hier_cl_averag_1,7,BP,GO:0048812,neuron projection morphogenesis,0.000268224991449471,3.57
+hier_cl_averag_3,17,BP,GO:0050684,regulation of mRNA processing,0.000406554176930543,3.39
+hier_cl_averag_1,2,BP,GO:0050686,negative regulation of mRNA processing,9.95316114694803e-05,4
+hier_cl_averag_2,1,BP,GO:0050728,negative regulation of inflammatory response,0.000466031399147315,3.33
+hier_cl_averag_1,8,BP,GO:0050769,positive regulation of neurogenesis,0.000851125642439485,3.07
+hier_cl_averag_3,166,BP,GO:0050821,protein stabilization,2.30787333235515e-08,7.64
+hier_cl_averag_2,49,BP,GO:0050821,protein stabilization,2.32250403146026e-06,5.63
+hier_cl_averag_2,57,BP,GO:0050821,protein stabilization,0.000627573420776618,3.2
+hier_cl_averag_1,16,BP,GO:0050821,protein stabilization,4.93564230997093e-05,4.31
+hier_cl_averag_1,23,BP,GO:0050870,positive regulation of T cell activation,0.000837905985519769,3.08
+hier_cl_averag_2,31,MF,GO:0051015,actin filament binding,0.000280040393872812,3.55
+hier_cl_averag_1,7,MF,GO:0051015,actin filament binding,7.41128156070084e-08,7.13
+hier_cl_averag_2,111,MF,GO:0051018,protein kinase A binding,0.000388608857943636,3.41
+hier_cl_averag_3,166,MF,GO:0051082,unfolded protein binding,2.20149220963516e-15,14.66
+hier_cl_averag_2,49,MF,GO:0051082,unfolded protein binding,6.05867265872234e-12,11.22
+hier_cl_averag_1,16,MF,GO:0051082,unfolded protein binding,3.88436653438019e-07,6.41
+hier_cl_averag_3,36,MF,GO:0051087,chaperone binding,0.0004773511734203,3.32
+hier_cl_averag_2,1,MF,GO:0051087,chaperone binding,1.64028561989486e-06,5.79
+hier_cl_averag_1,1,MF,GO:0051087,chaperone binding,4.61319900761456e-05,4.34
+hier_cl_averag_3,122,MF,GO:0051117,ATPase binding,0.000945187240746876,3.02
+hier_cl_averag_1,3,BP,GO:0051209,release of sequestered calcium ion into cytosol,0.000571030493085523,3.24
+hier_cl_averag_2,31,BP,GO:0051293,establishment of spindle localization,0.000113746755003386,3.94
+hier_cl_averag_2,57,BP,GO:0051348,negative regulation of transferase activity,0.00044152746731161,3.36
+hier_cl_averag_3,169,BP,GO:0051383,kinetochore organization,0.000409127010816214,3.39
+hier_cl_averag_2,3,BP,GO:0051383,kinetochore organization,0.000273585979482972,3.56
+hier_cl_averag_1,3,BP,GO:0051383,kinetochore organization,0.000571030493085523,3.24
+hier_cl_averag_2,57,BP,GO:0051438,regulation of ubiquitin-protein transferase activity,2.14155337614563e-05,4.67
+hier_cl_averag_2,5,BP,GO:0051568,histone H3-K4 methylation,5.37860379134835e-05,4.27
+hier_cl_averag_1,2,BP,GO:0051568,histone H3-K4 methylation,0.000177887308019559,3.75
+hier_cl_averag_1,9,BP,GO:0051716,cellular response to stimulus,0.000833406129009996,3.08
+hier_cl_averag_2,26,MF,GO:0051879,Hsp90 protein binding,0.000976013448986448,3.01
+hier_cl_averag_3,166,BP,GO:0051973,positive regulation of telomerase activity,1.52969408210107e-05,4.82
+hier_cl_averag_2,49,BP,GO:0051973,positive regulation of telomerase activity,0.000119949257661955,3.92
+hier_cl_averag_3,499,CC,GO:0055029,nuclear DNA-directed RNA polymerase complex,0.000461560843311615,3.34
+hier_cl_averag_1,2,CC,GO:0055029,nuclear DNA-directed RNA polymerase complex,0.000341233453906585,3.47
+hier_cl_averag_2,88,BP,GO:0060271,cilium assembly,5.21696807919286e-06,5.28
+hier_cl_averag_1,21,BP,GO:0060271,cilium assembly,4.08579008154208e-07,6.39
+hier_cl_averag_3,169,BP,GO:0060338,regulation of type I interferon-mediated signaling pathway,0.000279633474016759,3.55
+hier_cl_averag_2,1,MF,GO:0060589,nucleoside-triphosphatase regulator activity,0.000173652479353353,3.76
+hier_cl_averag_2,32,BP,GO:0061014,positive regulation of mRNA catabolic process,5.12063720977714e-05,4.29
+hier_cl_averag_2,101,BP,GO:0061024,membrane organization,0.000891836725202977,3.05
+hier_cl_averag_2,5,BP,GO:0061053,somite development,0.00021423272175956,3.67
+hier_cl_averag_1,5,MF,GO:0061631,ubiquitin conjugating enzyme activity,0.000681606499559508,3.17
+hier_cl_averag_3,336,BP,GO:0065004,protein-DNA complex assembly,0.000155885098076182,3.81
+hier_cl_averag_2,5,BP,GO:0070076,histone lysine demethylation,7.97945007062687e-05,4.1
+hier_cl_averag_1,2,BP,GO:0070076,histone lysine demethylation,3.85217734645781e-05,4.41
+hier_cl_averag_3,166,BP,GO:0070199,establishment of protein localization to chromosome,9.04848282751433e-12,11.04
+hier_cl_averag_2,49,BP,GO:0070199,establishment of protein localization to chromosome,1.02973616961367e-09,8.99
+hier_cl_averag_1,16,BP,GO:0070199,establishment of protein localization to chromosome,8.29916731869509e-06,5.08
+hier_cl_averag_3,12,CC,GO:0070603,SWI/SNF superfamily-type complex,0.000476259196912953,3.32
+hier_cl_averag_2,5,CC,GO:0070603,SWI/SNF superfamily-type complex,0.000120731025126655,3.92
+hier_cl_averag_2,16,BP,GO:0070727,cellular macromolecule localization,0.000847383563317982,3.07
+hier_cl_averag_1,2,CC,GO:0071005,U2-type precatalytic spliceosome,1.9456800554281e-05,4.71
+hier_cl_averag_3,48,CC,GO:0071007,U2-type catalytic step 2 spliceosome,8.1130395057903e-05,4.09
+hier_cl_averag_3,68,CC,GO:0071007,U2-type catalytic step 2 spliceosome,0.000944508505934724,3.02
+hier_cl_averag_1,2,CC,GO:0071007,U2-type catalytic step 2 spliceosome,0.000314227526787389,3.5
+hier_cl_averag_2,2,CC,GO:0071013,catalytic step 2 spliceosome,0.000109731482906448,3.96
+hier_cl_averag_1,2,CC,GO:0071013,catalytic step 2 spliceosome,5.7498144732276e-07,6.24
+hier_cl_averag_1,2,BP,GO:0071168,protein localization to chromatin,0.000141468852786847,3.85
+hier_cl_averag_2,88,BP,GO:0071539,protein localization to centrosome,2.70358182195165e-05,4.57
+hier_cl_averag_1,21,BP,GO:0071539,protein localization to centrosome,2.9100805832137e-06,5.54
+hier_cl_averag_2,101,BP,GO:0071621,granulocyte chemotaxis,8.78752086610702e-05,4.06
+hier_cl_averag_1,1,BP,GO:0072527,pyrimidine-containing compound metabolic process,0.000236846034024858,3.63
+hier_cl_averag_3,36,BP,GO:0090066,regulation of anatomical structure size,0.000814748609350444,3.09
+hier_cl_averag_2,64,BP,GO:0090114,COPII-coated vesicle budding,5.67097683936062e-06,5.25
+hier_cl_averag_1,22,BP,GO:0090114,COPII-coated vesicle budding,0.000150647894542899,3.82
+hier_cl_averag_3,305,BP,GO:0090257,regulation of muscle system process,0.000323032254152838,3.49
+hier_cl_averag_1,6,BP,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic",2.96374087730269e-07,6.53
+hier_cl_averag_3,143,BP,GO:0098586,cellular response to virus,0.000571030493085523,3.24
+hier_cl_averag_2,42,CC,GO:0098793,presynapse,0.000369601319503489,3.43
+hier_cl_averag_2,101,CC,GO:0098858,actin-based cell projection,0.000168805760070738,3.77
+hier_cl_averag_1,7,CC,GO:0098858,actin-based cell projection,0.000498957674475435,3.3
+hier_cl_averag_3,36,BP,GO:0098869,cellular oxidant detoxification,0.000158944167197905,3.8
+hier_cl_averag_1,1,BP,GO:0098869,cellular oxidant detoxification,0.000134667626026943,3.87
+hier_cl_averag_2,12,CC,GO:0099023,vesicle tethering complex,3.12285032093221e-13,12.51
+hier_cl_averag_1,8,CC,GO:0099023,vesicle tethering complex,1.19294915385132e-11,10.92
+hier_cl_averag_3,166,CC,GO:0101031,chaperone complex,3.46237385964851e-20,19.46
+hier_cl_averag_2,49,CC,GO:0101031,chaperone complex,3.06090055690011e-16,15.51
+hier_cl_averag_1,16,CC,GO:0101031,chaperone complex,2.21962106708952e-10,9.65
+hier_cl_averag_2,101,BP,GO:0120032,regulation of plasma membrane bounded cell projection assembly,0.000577768550433665,3.24
+hier_cl_averag_3,45,MF,GO:0140142,nucleocytoplasmic carrier activity,0.000163375367503102,3.79
+hier_cl_averag_1,1,MF,GO:0140142,nucleocytoplasmic carrier activity,0.000631783883775743,3.2
+hier_cl_averag_1,2,CC,GO:0140513,nuclear protein-containing complex,5.63843062376253e-07,6.25
+hier_cl_averag_3,112,CC,GO:0140534,endoplasmic reticulum protein-containing complex,0.000859432374664767,3.07
+hier_cl_averag_2,52,CC,GO:0140534,endoplasmic reticulum protein-containing complex,0.000157878663047117,3.8
+hier_cl_averag_2,96,CC,GO:0140534,endoplasmic reticulum protein-containing complex,0.000126763281877508,3.9
+hier_cl_averag_2,133,CC,GO:0140534,endoplasmic reticulum protein-containing complex,2.59058590662289e-05,4.59
+hier_cl_averag_1,5,CC,GO:0140534,endoplasmic reticulum protein-containing complex,0.000136607808219467,3.86
+hier_cl_averag_1,20,CC,GO:0140534,endoplasmic reticulum protein-containing complex,0.000119143470134008,3.92
+hier_cl_averag_3,12,BP,GO:1900363,regulation of mRNA polyadenylation,0.000842771205631496,3.07
+hier_cl_averag_2,7,BP,GO:1901576,organic substance biosynthetic process,0.000246752910332846,3.61
+hier_cl_averag_1,5,BP,GO:1901576,organic substance biosynthetic process,0.000858613089894693,3.07
+hier_cl_averag_2,23,BP,GO:1901698,response to nitrogen compound,0.000164193006637691,3.78
+hier_cl_averag_2,57,BP,GO:1901796,regulation of signal transduction by p53 class mediator,6.18268004819032e-05,4.21
+hier_cl_averag_1,7,MF,GO:1901981,phosphatidylinositol phosphate binding,0.000380750324811897,3.42
+hier_cl_averag_3,166,BP,GO:1901998,toxin transport,2.30090327072735e-15,14.64
+hier_cl_averag_2,49,BP,GO:1901998,toxin transport,2.57865777790614e-15,14.59
+hier_cl_averag_1,16,BP,GO:1901998,toxin transport,7.49217275454083e-10,9.13
+hier_cl_averag_1,7,BP,GO:1902117,positive regulation of organelle assembly,0.000981976978100258,3.01
+hier_cl_averag_1,3,BP,GO:1903169,regulation of calcium ion transmembrane transport,0.000476586795095093,3.32
+hier_cl_averag_3,166,BP,GO:1903829,positive regulation of cellular protein localization,3.45633339423625e-08,7.46
+hier_cl_averag_2,49,BP,GO:1903829,positive regulation of cellular protein localization,1.44290409953902e-07,6.84
+hier_cl_averag_1,16,BP,GO:1903829,positive regulation of cellular protein localization,8.45466188489676e-05,4.07
+hier_cl_averag_3,166,BP,GO:1904814,"regulation of protein localization to chromosome, telomeric region",6.37769091046919e-13,12.2
+hier_cl_averag_2,49,BP,GO:1904814,"regulation of protein localization to chromosome, telomeric region",7.37355162302354e-11,10.13
+hier_cl_averag_1,16,BP,GO:1904814,"regulation of protein localization to chromosome, telomeric region",6.614628984245e-07,6.18
+hier_cl_averag_3,166,BP,GO:1904951,positive regulation of establishment of protein localization,9.35570078675542e-09,8.03
+hier_cl_averag_2,49,BP,GO:1904951,positive regulation of establishment of protein localization,9.6424436040992e-07,6.02
+hier_cl_averag_1,16,BP,GO:1904951,positive regulation of establishment of protein localization,8.29205787816033e-08,7.08
+hier_cl_averag_2,48,BP,GO:1905268,negative regulation of chromatin organization,1.96634871009767e-06,5.71
+hier_cl_averag_2,101,BP,GO:1990266,neutrophil migration,8.78752086610702e-05,4.06
+hier_cl_averag_3,90,CC,GO:1990391,DNA repair complex,0.000859432374664767,3.07
+hier_cl_averag_2,2,CC,GO:1990391,DNA repair complex,0.000532401874967459,3.27
+hier_cl_averag_1,2,CC,GO:1990391,DNA repair complex,1.69522604281195e-07,6.77
+hier_cl_averag_2,23,BP,GO:1990748,cellular detoxification,0.000201214193224958,3.7
+hier_cl_averag_1,1,BP,GO:1990748,cellular detoxification,0.000676246301625397,3.17
+hier_cl_averag_2,57,BP,GO:2000059,negative regulation of ubiquitin-dependent protein catabolic process,3.54968219853861e-05,4.45
+hier_cl_averag_2,7,BP,GO:2000144,"positive regulation of DNA-templated transcription, initiation",0.000512858165261219,3.29
