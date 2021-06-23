@@ -84,7 +84,7 @@ ui <- dashboardPage( title = "Chromatin changes in mitosis",
                           column(9,
                                  tags$h4(tags$i("Itaru Samejima, Christos Spanos, Kumiko Samejima, Juri Rappsilber, Georg Kustatscher and William C. Earnshaw (submitted, 2021)")),
                                  br(),
-                                 tags$blockquote("This is an R Shiny app designed to interactively explore the data presented in our manuscript", style = "border-color: #1f5f80; background: #abcbdb;")),
+                                 tags$blockquote("This is an R Shiny app designed to interactively explore the data presented in our manuscript. For best results it should be viewed on a laptop or PC, though an iPad can function in horizontal mode.", style = "border-color: #1f5f80; background: #abcbdb;")),
                           column(2)),
                 
                 fluidRow( column(1),
